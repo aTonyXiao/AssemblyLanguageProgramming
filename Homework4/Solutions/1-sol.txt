@@ -1,0 +1,4 @@
+0.5 + 0.75
+Regular Add: 1.25
+My Add: 1.25
+I did it = true

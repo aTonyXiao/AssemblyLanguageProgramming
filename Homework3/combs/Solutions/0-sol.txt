@@ -1,0 +1,5 @@
+How many items do you have: Enter your items: Enter k: 819 
+574 
+873 
+814 
+-589 

@@ -1,0 +1,4 @@
+1.99999988079071044921875 - 2147483520
+Regular Subtraction: -2147483520
+My Subtraction: -2147483520
+I did it = true

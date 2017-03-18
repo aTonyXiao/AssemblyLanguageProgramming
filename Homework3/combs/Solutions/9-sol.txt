@@ -1,0 +1,1 @@
+How many items do you have: Enter your items: Enter k: -605 338 -889 -801 573 250 825 461 

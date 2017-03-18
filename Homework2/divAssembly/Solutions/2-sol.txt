@@ -1,0 +1,15 @@
+Reading symbols from /home/matthew/Dropbox/ECS/50/Homework/Homework2/divAssembly/divAssembly.out...done.
+(gdb) Breakpoint 1 at 0x80480ff: file divAssembly.s, line 199.
+(gdb) Breakpoint 2 at 0x8048128: file divAssembly.s, line 214.
+(gdb) Starting program: /home/matthew/Dropbox/ECS/50/Homework/Homework2/divAssembly/divAssembly.out 
+
+Breakpoint 1, _start () at divAssembly.s:199
+199	  push $remainder
+(gdb) (gdb) (gdb) Continuing.
+
+Breakpoint 2, done () at divAssembly.s:214
+214	  movl %eax, %eax
+(gdb) $1 = 27
+(gdb) $2 = 0
+(gdb) Kill the program being debugged? (y or n) [answered Y; input not from terminal]
+(gdb) 
